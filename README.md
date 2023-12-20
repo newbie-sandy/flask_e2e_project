@@ -1,10 +1,14 @@
 # flask_e2e_project
 
-It should contain a brief explanation of
+Feature: Daily Water Intake Tracker
 
-The web service you created (what is it and what does it do)
+Frontend: Tailwind
 
-The technologies you used
+Backend: Flask
+
+Database: MySQL
+
+Authentication: Google OAuth
 
 The steps to run your web service if someone wanted to either run locally or deploy to the cloud
 
