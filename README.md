@@ -1,6 +1,7 @@
 # flask_e2e_project
 
 Feature: Daily Water Intake Tracker
+
 The Web app includes a form for users to enter 'user_id', 'date', and 'amount_consumed' to log their daily water consumption
 
 Frontend: Tailwind
